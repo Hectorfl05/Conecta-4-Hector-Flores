@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.AssemblyInfo.cs
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\bin\Debug\net6.0\Proyecto 2 Hector Flores.exe
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\bin\Debug\net6.0\Proyecto 2 Hector Flores.deps.json
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\bin\Debug\net6.0\Proyecto 2 Hector Flores.runtimeconfig.json
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\bin\Debug\net6.0\Proyecto 2 Hector Flores.dll
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\bin\Debug\net6.0\Proyecto 2 Hector Flores.pdb
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.dll
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\refint\Proyecto 2 Hector Flores.dll
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.pdb
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\Proyecto 2 Hector Flores.genruntimeconfig.cache
+C:\Users\HP\source\repos\Proyecto 2 Hector Flores\Proyecto 2 Hector Flores\obj\Debug\net6.0\ref\Proyecto 2 Hector Flores.dll
