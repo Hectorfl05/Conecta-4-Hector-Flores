@@ -17,6 +17,7 @@ Este proyecto implementa el clásico juego **Conecta 4** como una aplicación de
 - Interfaz de consola intuitiva con colores
 
 El proyecto demuestra:
+
 ✔️ Manejo de matrices para el tablero  
 ✔️ Programación orientada a objetos en C#  
 ✔️ Validación de entradas de usuario  
